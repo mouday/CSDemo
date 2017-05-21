@@ -1,0 +1,10 @@
+D:\CS\TimeTableDemo\TimeTableDemo\bin\Debug\TimeTableDemo.exe.config
+D:\CS\TimeTableDemo\TimeTableDemo\bin\Debug\TimeTableDemo.exe
+D:\CS\TimeTableDemo\TimeTableDemo\bin\Debug\TimeTableDemo.pdb
+D:\CS\TimeTableDemo\TimeTableDemo\obj\Debug\TimeTableDemo.csprojResolveAssemblyReference.cache
+D:\CS\TimeTableDemo\TimeTableDemo\obj\Debug\TimeTableDemo.FormMain.resources
+D:\CS\TimeTableDemo\TimeTableDemo\obj\Debug\TimeTableDemo.Properties.Resources.resources
+D:\CS\TimeTableDemo\TimeTableDemo\obj\Debug\TimeTableDemo.csproj.GenerateResource.Cache
+D:\CS\TimeTableDemo\TimeTableDemo\obj\Debug\TimeTableDemo.exe
+D:\CS\TimeTableDemo\TimeTableDemo\obj\Debug\TimeTableDemo.pdb
+D:\CS\TimeTableDemo\TimeTableDemo\obj\Debug\TimeTableDemo.FormEdit.resources
