@@ -1,0 +1,16 @@
+D:\Code\UDPTest\UDPTest\bin\Debug\UDPTest.exe
+D:\Code\UDPTest\UDPTest\bin\Debug\UDPTest.pdb
+D:\Code\UDPTest\UDPTest\obj\Debug\UDPTest.csprojResolveAssemblyReference.cache
+D:\Code\UDPTest\UDPTest\obj\Debug\UDPTest.Form1.resources
+D:\Code\UDPTest\UDPTest\obj\Debug\UDPTest.Properties.Resources.resources
+D:\Code\UDPTest\UDPTest\obj\Debug\UDPTest.csproj.GenerateResource.Cache
+D:\Code\UDPTest\UDPTest\obj\Debug\UDPTest.exe
+D:\Code\UDPTest\UDPTest\obj\Debug\UDPTest.pdb
+D:\Code\网络编程(UDP协议实例已调试通过)\UDPTest\obj\Debug\UDPTest.exe
+D:\Code\网络编程(UDP协议实例已调试通过)\UDPTest\obj\Debug\UDPTest.pdb
+D:\Code\网络编程(UDP协议实例已调试通过)\UDPTest\bin\Debug\UDPTest.exe
+D:\Code\网络编程(UDP协议实例已调试通过)\UDPTest\bin\Debug\UDPTest.pdb
+D:\Code\网络编程(UDP协议实例已调试通过)\UDPTest\obj\Debug\UDPTest.csprojResolveAssemblyReference.cache
+D:\Code\网络编程(UDP协议实例已调试通过)\UDPTest\obj\Debug\UDPTest.Form1.resources
+D:\Code\网络编程(UDP协议实例已调试通过)\UDPTest\obj\Debug\UDPTest.Properties.Resources.resources
+D:\Code\网络编程(UDP协议实例已调试通过)\UDPTest\obj\Debug\UDPTest.csproj.GenerateResource.Cache
