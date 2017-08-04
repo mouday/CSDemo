@@ -6,3 +6,5 @@ D:\Code\网络编程\ClientTest\obj\Debug\ClientTest.Properties.Resources.resour
 D:\Code\网络编程\ClientTest\obj\Debug\ClientTest.csproj.GenerateResource.Cache
 D:\Code\网络编程\ClientTest\obj\Debug\ClientTest.exe
 D:\Code\网络编程\ClientTest\obj\Debug\ClientTest.pdb
+D:\GitHub\CSDemo\网络编程(TCP协议实例已调试通过)\ClientTest\obj\Debug\ClientTest.exe
+D:\GitHub\CSDemo\网络编程(TCP协议实例已调试通过)\ClientTest\obj\Debug\ClientTest.pdb

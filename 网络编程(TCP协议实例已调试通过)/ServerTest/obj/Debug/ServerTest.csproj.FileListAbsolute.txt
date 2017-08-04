@@ -6,3 +6,5 @@ D:\Code\网络编程\ServerTest\obj\Debug\ServerTest.csproj.GenerateResource.Cac
 D:\Code\网络编程\ServerTest\obj\Debug\ServerTest.exe
 D:\Code\网络编程\ServerTest\obj\Debug\ServerTest.pdb
 D:\Code\网络编程\ServerTest\obj\Debug\ServerTest.csprojResolveAssemblyReference.cache
+D:\GitHub\CSDemo\网络编程(TCP协议实例已调试通过)\ServerTest\obj\Debug\ServerTest.exe
+D:\GitHub\CSDemo\网络编程(TCP协议实例已调试通过)\ServerTest\obj\Debug\ServerTest.pdb
