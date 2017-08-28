@@ -1,0 +1,16 @@
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\bin\Debug\企业客户资料管理与查询系统.exe
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\bin\Debug\企业客户资料管理与查询系统.pdb
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.csprojResolveAssemblyReference.cache
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormLogin.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.Properties.Resources.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.csproj.GenerateResource.Cache
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\企业客户资料管理与查询系统.exe
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\企业客户资料管理与查询系统.pdb
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormMain.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormChangePwd.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormClient.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormAddClient.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormAddService.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormSelectClient.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormAddComplaint.resources
+D:\CS\企业客户资料管理与查询系统\企业客户资料管理与查询系统\obj\Debug\CRMSystem.FormAbout.resources
